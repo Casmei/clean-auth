@@ -1,0 +1,10 @@
+{
+  "material-icon-theme.folders.associations": {
+    "features": "rules",
+    "adapters": "pipe",
+    "infra": "tools",
+    "usuario": "admin",
+    "DTO": "typescript",
+    "_shared": "shared"
+  }
+}
